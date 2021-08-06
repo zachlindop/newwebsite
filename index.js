@@ -1,4 +1,4 @@
-document.querySelector('#review').addEventListener('submit', (e) => {
+document.querySelector('#review').addEventListener('submit', (e) => {console.log()
     e.preventDefault()
         bookReview(e.target.work.value)
 })
