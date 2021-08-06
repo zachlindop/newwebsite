@@ -1,0 +1,143 @@
+.connector {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+
+.result {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    height: 400px;
+    width: 300px;
+}
+
+.result img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background-color: green;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+button:focus {
+    outline: none
+}
+#mHImage {
+    float:left;
+    height: 50%;
+    width: 50%;
+    padding: 5%;
+}
+#header {
+    font-size: 75px;
+    font-style: oblique;
+}
+#author {
+    color:white;
+    font-size: xx-large;
+    text-align: center;
+    font-style: italic;
+}    
+
+body{
+    text-align: center;
+    background-size: 100%;
+    background-repeat: repeat;
+    background-image:url(https://tse4.mm.bing.net/th?id=OIP.7D-g1vTc2sCJJivLR1p_LgHaHa&pid=Api&P=0&w=300&h=300)
+    
+}
+.connect{
+    align-content: center;
+    text-align: center;
+}
+#test{
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+#rev{
+    padding: 10px;
+    width: 277px;
+    text-align: center;
+    font-size:100%;
+}
+#donation{
+    color:green;
+}
+#friendText{
+    color:green;
+    font-size: xx-large;
+    
+}
+#href{
+    color:green;
+    font-size:x-large;
+    
+}
+#RED{
+    color:green;
+    font-size:x-large;
+}
+#hoppy{
+    color:green;
+    font-size:x-large;
+}
+#donText{
+    color:green;
+   
+    
+}
+#hrefBook{
+    font-size:xx-large;
+    color:aquamarine;
+}
+#rev1{
+    width: 300px;
+    height: 300px;
+    border: 3px solid #ccc;
+    background: #eee;
+    margin: auto;
+    padding: 15px 10px;
+}
+#sun {
+    border-radius: 25px;
+    
+  }
+
+
+    
+
+
+
+
+    
+    
+
+    
+  
